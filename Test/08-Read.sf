@@ -1,0 +1,5 @@
+BEGINPROG Read
+VARIABLES test,test2
+READ(test,test,test2)
+PRINT(test,test2)
+ENDPROG

@@ -1,0 +1,5 @@
+BEGINPROG PendingEndFor
+FOR i := 2 TO 5 DO
+PRINT(i)
+
+ENDPROG

@@ -1,0 +1,9 @@
+BEGINPROG While
+VARIABLES x
+x:=-7
+WHILE(x <= 1) DO
+x := x + 1
+
+PRINT(x)
+ENDWHILE
+ENDPROG
